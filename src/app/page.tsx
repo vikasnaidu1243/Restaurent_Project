@@ -54,7 +54,7 @@ export default function Home() {
             <span className="section-subtitle">OUR HERITAGE</span>
             <h2 className="section-title">A Symphony of Flavors</h2>
             <p className="philosophy-p">
-              At HARISHRESTAURENT, we believe dining is a sacred ritual. Every dish is a carefully composed sonnet, celebrating the absolute purity of seasonal ingredients sourced from independent artisanal producers.
+              At NitheeshRestuarent, we believe dining is a sacred ritual. Every dish is a carefully composed sonnet, celebrating the absolute purity of seasonal ingredients sourced from independent artisanal producers.
             </p>
             <p className="philosophy-p">
               Under the culinary vision of our Master Chefs, classical techniques are elevated to modern art, offering a dining experience that resonates deep within the soul of every epicurean.
@@ -106,7 +106,7 @@ export default function Home() {
           <span className="section-subtitle">ACCOLADES</span>
           <div className="quote-box">
             <p className="testimonial-quote">
-              &ldquo;HARISHRESTAURENT remains the ultimate sanctuary of haute cuisine. A masterclass in precision, balance, and pure culinary poetry.&rdquo;
+              &ldquo;NitheeshRestuarent remains the ultimate sanctuary of haute cuisine. A masterclass in precision, balance, and pure culinary poetry.&rdquo;
             </p>
             <span className="quote-author">&mdash; LE GUIDE MICHELIN</span>
           </div>

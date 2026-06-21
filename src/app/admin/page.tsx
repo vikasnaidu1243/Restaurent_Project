@@ -196,7 +196,7 @@ export default function AdminPage() {
       <div className="page-header flex-header-layout">
         <div>
           <span className="section-subtitle">MANAGEMENT CONSOLE</span>
-          <h1 className="section-title">HARISHRESTAURENT Administrative Panel</h1>
+          <h1 className="section-title">NitheeshRestuarent Administrative Panel</h1>
         </div>
         {activeTab === 'menu' && (
           <button onClick={openAddModal} className="btn btn-primary btn-add-menu-item">
