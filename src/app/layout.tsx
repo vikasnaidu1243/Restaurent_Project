@@ -6,8 +6,8 @@ import { Footer } from '@/components/Footer';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'L\'Ambroisie | Fine Dining Restaurant',
-  description: 'Welcome to L\'Ambroisie, an exquisite culinary sanctuary of French haute cuisine, nestled in the heart of Paris.',
+  title: 'HARISHRESTAURENT | Fine Dining Restaurant',
+  description: 'Welcome to HARISHRESTAURENT, an exquisite culinary sanctuary of French haute cuisine, nestled in the heart of Paris.',
 };
 
 export default function RootLayout({

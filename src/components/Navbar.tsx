@@ -22,7 +22,7 @@ export const Navbar: React.FC = () => {
     <header className="navbar-header">
       <div className="container nav-container">
         <Link href="/" className="nav-logo">
-          L&apos;AMBROISIE
+          HARISHRESTAURENT
         </Link>
 
         {/* Desktop Menu */}
