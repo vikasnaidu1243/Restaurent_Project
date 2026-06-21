@@ -7,7 +7,7 @@ export const Footer: React.FC = () => {
       <div className="container footer-grid">
         <div className="footer-col brand-col">
           <Link href="/" className="footer-logo">
-            L&apos;AMBROISIE
+            NITHEESHRESTUARENT
           </Link>
           <p className="footer-desc">
             An exquisite culinary sanctuary dedicated to the art of fine dining. We combine classic French techniques with contemporary innovations to create unforgettable gastronomic experiences.
@@ -49,7 +49,7 @@ export const Footer: React.FC = () => {
             </li>
             <li>
               <span className="label">Email:</span>
-              <span className="value">reservations@lambroisie.com</span>
+              <span className="value">reservations@nitheeshrestuarent.com</span>
             </li>
           </ul>
         </div>
@@ -57,7 +57,7 @@ export const Footer: React.FC = () => {
 
       <div className="footer-bottom">
         <div className="container flex-bottom">
-          <p>&copy; {new Date().getFullYear()} L&apos;Ambroisie. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} NitheeshRestuarent. All rights reserved.</p>
           <div className="footer-bottom-links">
             <Link href="/admin">Admin Login</Link>
             <span className="separator">|</span>
